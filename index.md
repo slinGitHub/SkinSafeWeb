@@ -30,8 +30,7 @@ Tflite model (for Cartoonization)
 ### Donations
 **This project can be supported by you!** If you would like to support this project's further development, feel free to donate. Your donation is highly appreciated (especially for all the coffee during programming) Thank you!
 
-**Support the development**  
-[Donate with Paypal](https://www.paypal.com/ncp/payment/WY7DJ55SGCU6E): Thank's for working on this project, here's a coffee for you!
+[Support the development and donate with Paypal](https://www.paypal.com/ncp/payment/WY7DJ55SGCU6E): Thank's for working on this project, here's a coffee for you!
 
 ### FAQ
 Visit the [FAQ](faq.md) page.

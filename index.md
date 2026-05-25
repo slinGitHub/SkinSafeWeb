@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="ic_launcher-playstore" src="https://github.com/user-attachments/assets/c9f48819-acf5-4151-95ca-cfeca11dfc80" />
+<img width="100" height="100" alt="SkinSafeGithubLogo" src="https://github.com/user-attachments/assets/975e2b9f-2888-43f1-b662-2fe67700ee10" />
 
 
 ## Welcome to the SkinSafe Homepage
@@ -31,7 +31,9 @@ Tflite model (for Cartoonization)
 **This project can be supported by you!** If you would like to support this project's further development, feel free to donate. Your donation is highly appreciated (especially for all the coffee during programming) Thank you!
 
 **Paypal**  
-[Donate $5](https://www.paypal.com/donate/?hosted_button_id=2XER5K98FAKMY): Thank's for working on this project, here's a coffee for you!
+[Support the development](https://www.paypal.com/ncp/payment/WY7DJ55SGCU6E): Thank's for working on this project, here's a coffee for you!
+
+
 
 ### FAQ
 Visit the [FAQ](faq.md) page.

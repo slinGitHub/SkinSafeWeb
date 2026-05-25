@@ -1,7 +1,7 @@
 Privacy Policy
 1. Controller
   The controller responsible for data processing in connection with this app is:  
-  N. Busch  
+  N. B.
   Email: labs.busch(at)gmail.com  
 
 3. General Information
